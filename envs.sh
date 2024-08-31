@@ -8,3 +8,5 @@ export EXTERNAL="/external/"
 export RESPALDO="$HOME/respaldo/"
 export JAVA_HOME="/usr/java/"
 export PATH=$JAVA_HOME/bin:$PATH
+export PROYECTS="$HOME/Proyects"
+
